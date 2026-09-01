@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: oklch(90.5% 0.182 98.111);
+}
+
+* {
+  box-sizing: border-box;
+}
